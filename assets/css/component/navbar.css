@@ -1,0 +1,5 @@
+.m-navbar{
+    width: 256px;
+    height: calc(100vh - 56px);
+    background: red;
+}

@@ -1,0 +1,16 @@
+.m-content {
+    width: calc(100% - 256px);
+    height: calc(100vh - 56px);
+    background: bisque;
+    position: absolute;
+    left: 256px;
+    top: 56px;
+}
+
+.m-content .ms-btn {
+    display: flex;
+    padding: 12px;
+    height: 36px;
+    justify-content: center;
+    align-items: center;
+}

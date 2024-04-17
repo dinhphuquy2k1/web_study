@@ -1,0 +1,14 @@
+.m-toast{
+    position: absolute;
+    top: 0;
+    padding: 20px;
+    background: yellow;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    box-sizing: border-box;
+}
+
+.m-toast.hidden{
+    display: none;
+}
