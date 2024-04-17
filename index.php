@@ -19,5 +19,7 @@
 include 'page/components/toast.php';
 ?>
 </body>
+<script src="js/jquery-3.7.1.slim.min.js"></script>
+<script src="js/main.js"></script>
 </html>
 

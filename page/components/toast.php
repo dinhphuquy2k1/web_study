@@ -3,5 +3,5 @@
     <div class="text">
         Thông báo
     </div>
-    <button>x</button>
+    <button class="m-close_toast">x</button>
 </div>

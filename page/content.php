@@ -4,10 +4,3 @@
         <div class="text">button</div>
     </button>
 </div>
-
-
-<script>
-    var button = document.getElementById("showToast").addEventListener('click', function (){
-       var toast = document.getElementById("m-toast").classList.remove('hidden');
-    });
-</script>
